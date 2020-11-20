@@ -1,3 +1,4 @@
-let tony = 'cats'
-let project = 'sucks'
-let me = 'hungry'
+const router = require('express').Router()
+const {Zomato} = require('../models');
+
+module.exports = router
