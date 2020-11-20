@@ -1,1 +1,4 @@
-// this is a test statement
+const router = require('express').Router();
+const {Nasa} = require('../models');
+
+module.exports = router;
